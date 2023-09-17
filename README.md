@@ -1,6 +1,6 @@
-**Ceyhun Deniz Keleş
+**Ceyhun Deniz Keleş**
 
-\nBilkent University - Department of Computer Engineering - Freshman**
+**\nBilkent University - Department of Computer Engineering - Freshman**
 
 <!--
 **joonullus/joonullus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
